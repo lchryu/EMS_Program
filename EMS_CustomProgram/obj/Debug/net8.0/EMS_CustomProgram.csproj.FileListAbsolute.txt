@@ -1,0 +1,14 @@
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\bin\Debug\net8.0\EMS_CustomProgram.exe
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\bin\Debug\net8.0\EMS_CustomProgram.deps.json
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\bin\Debug\net8.0\EMS_CustomProgram.runtimeconfig.json
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\bin\Debug\net8.0\EMS_CustomProgram.dll
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\bin\Debug\net8.0\EMS_CustomProgram.pdb
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\obj\Debug\net8.0\EMS_CustomProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\obj\Debug\net8.0\EMS_CustomProgram.AssemblyInfoInputs.cache
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\obj\Debug\net8.0\EMS_CustomProgram.AssemblyInfo.cs
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\obj\Debug\net8.0\EMS_CustomProgram.csproj.CoreCompileInputs.cache
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\obj\Debug\net8.0\EMS_CustomProgram.dll
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\obj\Debug\net8.0\refint\EMS_CustomProgram.dll
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\obj\Debug\net8.0\EMS_CustomProgram.pdb
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\obj\Debug\net8.0\EMS_CustomProgram.genruntimeconfig.cache
+C:\Users\lchry\source\repos\EMS_CustomProgram\EMS_CustomProgram\obj\Debug\net8.0\ref\EMS_CustomProgram.dll
